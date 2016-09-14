@@ -1,0 +1,22 @@
+{
+  "name": "endpoints",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TKMacmillan/endpoints.git"
+  },
+  "author": "LePetitDev",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^2.9.6",
+    "koa": "^0.18.0",
+    "koa-bodyparser": "^1.4.1",
+    "koa-router": "^4.2.0",
+    "request": "^2.74.0",
+    "xml2js": "^0.4.17"
+  },
+  "devDependencies": {}
+}
